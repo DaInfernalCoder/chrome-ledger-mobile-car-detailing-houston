@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chromeledger.shop/sitemap.xml
