@@ -20,7 +20,7 @@ Create and launch Chrome Ledger Mobile Car Detailing Houston as site 29 of the 1
 - Production fallback: https://chrome-ledger-mobile-car-detailing.vercel.app
 - Attached custom hosts: `chromeledger.shop`, `www.chromeledger.shop`
 - Registrar nameservers saved: `ns1.vercel-dns.com`, `ns2.vercel-dns.com`
-- Custom-domain DNS and HTTPS: propagation pending
+- Custom-domain apex and `www` HTTPS: verified live with the assigned phone
 
 ## Truth constraints
 
@@ -49,4 +49,4 @@ The confirmed street address is required for final `GMB-INFO.txt` and GeoStamp c
 
 ## Exact next action
 
-Await the confirmed street address. In a later run, verify propagated apex and `www` once, then complete `GMB-INFO.txt` and GeoStamp.
+Await the confirmed street address, then complete `GMB-INFO.txt` and GeoStamp.
