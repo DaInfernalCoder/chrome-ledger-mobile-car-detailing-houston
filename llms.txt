@@ -14,3 +14,14 @@
 - Service: Appointment-based mobile car detailing
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - Google review profile: https://g.page/r/CZeDXnicsLukEBM/review
+
+<!-- SEO-NEXT:START -->
+## Expanded pages
+- [Services](https://chromeledger.shop/services/)
+- [Interior Car Detailing](https://chromeledger.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://chromeledger.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://chromeledger.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://chromeledger.shop/services/headlight-restoration/)
+- [About](https://chromeledger.shop/about/)
+- [Contact](https://chromeledger.shop/contact/)
+<!-- SEO-NEXT:END -->
