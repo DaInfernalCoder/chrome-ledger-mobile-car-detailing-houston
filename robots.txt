@@ -13,4 +13,4 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://chromeledger.shop/sitemap.xml
+Sitemap: https://houstoncardetailingtexas.shop/sitemap.xml

@@ -8,7 +8,7 @@ Create and launch Chrome Ledger Mobile Car Detailing Houston as site 29 of the 1
 
 - Service: Mobile Car Detailing
 - Market: Houston, Texas
-- Registered domain: `chromeledger.shop`
+- Registered domain: `houstoncardetailingtexas.shop`
 - Public phone: `+1 832-358-3048`
 - Street address: `1829 Ojeman Rd, Houston, TX 77080`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
@@ -19,7 +19,7 @@ Create and launch Chrome Ledger Mobile Car Detailing Houston as site 29 of the 1
 - Vercel project: https://vercel.com/dainfernalcoders-projects/chrome-ledger-mobile-car-detailing-houston
 - GitHub-to-Vercel automatic deployments: connected
 - Production fallback: https://chrome-ledger-mobile-car-detailing.vercel.app
-- Attached custom hosts: `chromeledger.shop`, `www.chromeledger.shop`
+- Attached custom hosts: `houstoncardetailingtexas.shop`, `www.houstoncardetailingtexas.shop`
 - Registrar nameservers saved: `ns1.vercel-dns.com`, `ns2.vercel-dns.com`
 - Custom-domain apex and `www` HTTPS: verified live with the assigned phone
 

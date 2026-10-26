@@ -3,9 +3,9 @@
 > Appointment-based mobile car detailing in Houston, Texas.
 
 ## Primary pages
-- [Homepage](https://chromeledger.shop/): Business, service, pricing, process, and contact information.
-- [Services](https://chromeledger.shop/#services): Interior, exterior, and complete vehicle detailing options.
-- [Local service information](https://chromeledger.shop/#local-detailing): How mobile detailing works in Houston.
+- [Homepage](https://houstoncardetailingtexas.shop/): Business, service, pricing, process, and contact information.
+- [Services](https://houstoncardetailingtexas.shop/#services): Interior, exterior, and complete vehicle detailing options.
+- [Local service information](https://houstoncardetailingtexas.shop/#local-detailing): How mobile detailing works in Houston.
 
 ## Verified business facts
 - Business name: Chrome Ledger Mobile Car Detailing Houston
@@ -17,11 +17,11 @@
 
 <!-- SEO-NEXT:START -->
 ## Expanded pages
-- [Services](https://chromeledger.shop/services/)
-- [Interior Car Detailing](https://chromeledger.shop/services/interior-car-detailing/)
-- [Exterior Car Detailing](https://chromeledger.shop/services/exterior-car-detailing/)
-- [Mobile Car Wash](https://chromeledger.shop/services/mobile-car-wash/)
-- [Headlight Restoration & Polishing](https://chromeledger.shop/services/headlight-restoration/)
-- [About](https://chromeledger.shop/about/)
-- [Contact](https://chromeledger.shop/contact/)
+- [Services](https://houstoncardetailingtexas.shop/services/)
+- [Interior Car Detailing](https://houstoncardetailingtexas.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://houstoncardetailingtexas.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://houstoncardetailingtexas.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://houstoncardetailingtexas.shop/services/headlight-restoration/)
+- [About](https://houstoncardetailingtexas.shop/about/)
+- [Contact](https://houstoncardetailingtexas.shop/contact/)
 <!-- SEO-NEXT:END -->
