@@ -12,7 +12,7 @@ Create and launch Chrome Ledger Mobile Car Detailing Houston as site 29 of the 1
 - Public phone: `+1 832-358-3048`
 - Street address: `1829 Ojeman Rd, Houston, TX 77080`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
-- Booking: https://cal.com/sumitdatta/auto-detail-service
+- Booking: https://houstoncardetailingtexas.shop/scheduling
 - Build method: cloned from a validated site family through `scripts/scaffold_sites_from_csv.py`
 - Approval boundary: exact-domain approval is the only launch gate and authorizes the standard automated GitHub, Vercel, custom-host, and DNS workflow
 - GitHub: https://github.com/DaInfernalCoder/chrome-ledger-mobile-car-detailing-houston
